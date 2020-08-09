@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covidapiapp/static/css/main.5d2183af.chunk.css",
+    "main.js": "/covidapiapp/static/js/main.8f4e7971.chunk.js",
+    "main.js.map": "/covidapiapp/static/js/main.8f4e7971.chunk.js.map",
+    "runtime-main.js": "/covidapiapp/static/js/runtime-main.43ceb20d.js",
+    "runtime-main.js.map": "/covidapiapp/static/js/runtime-main.43ceb20d.js.map",
+    "static/js/2.954ae24f.chunk.js": "/covidapiapp/static/js/2.954ae24f.chunk.js",
+    "static/js/2.954ae24f.chunk.js.map": "/covidapiapp/static/js/2.954ae24f.chunk.js.map",
+    "index.html": "/covidapiapp/index.html",
+    "precache-manifest.e95108068eac6b935cda92b869a34a89.js": "/covidapiapp/precache-manifest.e95108068eac6b935cda92b869a34a89.js",
+    "service-worker.js": "/covidapiapp/service-worker.js",
+    "static/css/main.5d2183af.chunk.css.map": "/covidapiapp/static/css/main.5d2183af.chunk.css.map",
+    "static/js/2.954ae24f.chunk.js.LICENSE.txt": "/covidapiapp/static/js/2.954ae24f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43ceb20d.js",
+    "static/js/2.954ae24f.chunk.js",
+    "static/css/main.5d2183af.chunk.css",
+    "static/js/main.8f4e7971.chunk.js"
+  ]
+}
